@@ -1,0 +1,553 @@
+ID,rodata,data,hora,mandante,visitante,formacao_mandante,formacao_visitante,tecnico_mandante,tecnico_visitante,vencedor,arena,mandante_Placar,visitante_Placar,mandante_Estado,visitante_Estado
+1,1,29/03/2003,16:00,Guarani,Vasco,,,,,Guarani,Â Brinco de Ouro,4,2,SP,RJ
+2,1,29/03/2003,16:00,Athletico-PR,Gremio,,,,,Athletico-PR,Â Arena da Baixada,2,0,PR,RS
+3,1,30/03/2003,16:00,Flamengo,Coritiba,,,,,-,Â MaracanÃ£,1,1,RJ,PR
+4,1,30/03/2003,16:00,Goias,Paysandu,,,,,-,Â Serra Dourada,2,2,GO,PA
+5,1,30/03/2003,16:00,Internacional,Ponte Preta,,,,,-,Â Beira Rio,1,1,RS,SP
+6,1,30/03/2003,16:00,Criciuma,Fluminense,,,,,Criciuma,Â Heriberto Hulse,2,0,SC,RJ
+7,1,30/03/2003,16:00,Juventude,Sao Paulo,,,,,-,Â Alfredo Jaconi,2,2,RS,SP
+8,1,30/03/2003,16:00,Fortaleza,Bahia,,,,,-,Â CastelÃ£o,0,0,CE,BA
+9,1,30/03/2003,16:00,Cruzeiro,Sao Caetano,,,,,-,Â MineirÃ£o,2,2,MG,SP
+10,1,30/03/2003,16:00,Vitoria,Figueirense,,,,,-,Â BarradÃ£o,1,1,BA,SC
+11,1,30/03/2003,18:00,Santos,Parana,,,,,-,Â Vila Belmiro,2,2,SP,PR
+12,1,30/03/2003,18:00,Corinthians,Atletico-MG,,,,,Atletico-MG,Â Pacaembu,0,3,SP,MG
+13,2,05/04/2003,16:00,Fluminense,Fortaleza,,,,,-,Â MaracanÃ£,1,1,RJ,CE
+14,2,05/04/2003,16:00,Atletico-MG,Santos,,,,,-,Â MineirÃ£o,0,0,MG,SP
+15,2,05/04/2003,16:00,Coritiba,Internacional,,,,,Internacional,Â Couto Pereira,0,1,PR,RS
+16,2,05/04/2003,18:00,Gremio,Guarani,,,,,Gremio,Â OlÃ­mpico,3,1,RS,SP
+17,2,06/04/2003,16:00,Bahia,Flamengo,,,,,Flamengo,Â Fonte Nova,1,2,BA,RJ
+18,2,06/04/2003,16:00,Figueirense,Corinthians,,,,,-,Â Orlando Scarpelli,3,3,SC,SP
+19,2,06/04/2003,16:00,Paysandu,Vitoria,,,,,Vitoria,Â MangueirÃ£o,1,2,PA,BA
+20,2,06/04/2003,16:00,Ponte Preta,Juventude,,,,,Ponte Preta,Â MoisÃ©s Lucarelli,1,0,SP,RS
+21,2,06/04/2003,16:00,Parana,Athletico-PR,,,,,Parana,Â PinheirÃ£o,3,0,PR,PR
+22,2,06/04/2003,16:00,Sao Caetano,Criciuma,,,,,Sao Caetano,Â Anacleto Campanella,3,2,SP,SC
+23,2,06/04/2003,18:00,Sao Paulo,Cruzeiro,,,,,Cruzeiro,Â Morumbi,2,4,SP,MG
+24,2,06/04/2003,18:00,Vasco,Goias,,,,,Vasco,Â SÃ£o JanuÃ¡rio,6,4,RJ,GO
+25,4,09/04/2003,21:40,Paysandu,Santos,,,,,Paysandu,Â MangueirÃ£o,2,1,PA,SP
+26,4,16/04/2003,20:30,Bahia,Juventude,,,,,Bahia,Â Fonte Nova,3,1,BA,RS
+27,4,16/04/2003,20:30,Gremio,Vitoria,,,,,Gremio,Â OlÃ­mpico,2,1,RS,BA
+28,4,16/04/2003,20:30,Atletico-MG,Guarani,,,,,Atletico-MG,Â MineirÃ£o,3,2,MG,SP
+29,4,16/04/2003,20:30,Figueirense,Athletico-PR,,,,,-,Â Orlando Scarpelli,1,1,SC,PR
+30,4,16/04/2003,20:30,Ponte Preta,Criciuma,,,,,-,Â MoisÃ©s Lucarelli,1,1,SP,SC
+31,4,16/04/2003,21:40,Sao Caetano,Flamengo,,,,,-,Â Anacleto Campanella,1,1,SP,RJ
+32,4,16/04/2003,21:40,Vasco,Corinthians,,,,,-,Â SÃ£o JanuÃ¡rio,2,2,RJ,SP
+33,4,16/04/2003,21:40,Coritiba,Cruzeiro,,,,,Cruzeiro,Â Couto Pereira,3,4,PR,MG
+34,4,17/04/2003,20:30,Fluminense,Internacional,,,,,Fluminense,Â MaracanÃ£,3,1,RJ,RS
+35,4,17/04/2003,20:30,Sao Paulo,Fortaleza,,,,,Sao Paulo,Â Morumbi,3,1,SP,CE
+36,4,17/04/2003,20:30,Parana,Goias,,,,,Parana,Â PinheirÃ£o,3,1,PR,GO
+37,3,12/04/2003,16:00,Internacional,Bahia,,,,,Internacional,Â Beira Rio,2,0,RS,BA
+38,3,12/04/2003,16:00,Santos,Figueirense,,,,,Santos,Â Vila Belmiro,2,0,SP,SC
+39,3,12/04/2003,16:00,Athletico-PR,Atletico-MG,,,,,Atletico-MG,Â Arena da Baixada,1,2,PR,MG
+40,3,12/04/2003,18:00,Corinthians,Paysandu,,,,,Corinthians,Â Pacaembu,6,1,SP,PA
+41,3,13/04/2003,16:00,Vitoria,Vasco,,,,,Vitoria,Â BarradÃ£o,2,1,BA,RJ
+42,3,13/04/2003,16:00,Criciuma,Sao Paulo,,,,,-,Â Heriberto Hulse,1,1,SC,SP
+43,3,13/04/2003,16:00,Fortaleza,Sao Caetano,,,,,-,Â Presidente Vargas,1,1,CE,SP
+44,3,13/04/2003,16:00,Juventude,Coritiba,,,,,Juventude,Â Alfredo Jaconi,2,1,RS,PR
+45,3,13/04/2003,16:00,Guarani,Parana,,,,,Guarani,Â Brinco de Ouro,2,0,SP,PR
+46,3,13/04/2003,16:00,Goias,Gremio,,,,,-,Â Serra Dourada,1,1,GO,RS
+47,3,13/04/2003,18:00,Cruzeiro,Ponte Preta,,,,,Cruzeiro,Â MineirÃ£o,3,0,MG,SP
+48,3,13/04/2003,18:00,Flamengo,Fluminense,,,,,Flamengo,Â MaracanÃ£,4,1,RJ,RJ
+49,5,19/04/2003,16:00,Bahia,Atletico-MG,,,,,Atletico-MG,Â Fonte Nova,2,4,BA,MG
+50,5,19/04/2003,16:00,Sao Caetano,Gremio,,,,,-,Â Anacleto Campanella,1,1,SP,RS
+51,5,19/04/2003,18:00,Flamengo,Santos,,,,,Santos,Â MaracanÃ£,0,2,RJ,SP
+52,5,20/04/2003,16:00,Sao Paulo,Vasco,,,,,Sao Paulo,Â Morumbi,3,1,SP,RJ
+53,5,20/04/2003,16:00,Internacional,Corinthians,,,,,Internacional,Â Beira Rio,2,1,RS,SP
+54,5,20/04/2003,16:00,Criciuma,Guarani,,,,,Criciuma,Â Heriberto Hulse,1,0,SC,SP
+55,5,20/04/2003,16:00,Juventude,Vitoria,,,,,-,Â Alfredo Jaconi,1,1,RS,BA
+56,5,20/04/2003,16:00,Fortaleza,Athletico-PR,,,,,Fortaleza,Â Presidente Vargas,1,0,CE,PR
+57,5,20/04/2003,16:00,Ponte Preta,Paysandu,,,,,-,Â MoisÃ©s Lucarelli,4,4,SP,PA
+58,5,20/04/2003,18:00,Cruzeiro,Goias,,,,,Cruzeiro,Â MineirÃ£o,4,1,MG,GO
+59,5,20/04/2003,18:00,Fluminense,Parana,,,,,-,Â MaracanÃ£,0,0,RJ,PR
+60,5,21/04/2003,20:30,Coritiba,Figueirense,,,,,Coritiba,Â Couto Pereira,1,0,PR,SC
+61,6,26/04/2003,16:00,Atletico-MG,Coritiba,,,,,Coritiba,Â MineirÃ£o,1,2,MG,PR
+62,6,26/04/2003,16:00,Parana,Bahia,,,,,Parana,Â PinheirÃ£o,3,1,PR,BA
+63,6,26/04/2003,16:00,Vitoria,Internacional,,,,,Internacional,Â BarradÃ£o,0,3,BA,RS
+64,6,26/04/2003,18:00,Guarani,Cruzeiro,,,,,-,Â Brinco de Ouro,1,1,SP,MG
+65,6,27/04/2003,16:00,Corinthians,Flamengo,,,,,-,Â Pacaembu,1,1,SP,RJ
+66,6,27/04/2003,16:00,Goias,Juventude,,,,,Goias,Â Serra Dourada,7,0,GO,RS
+67,6,27/04/2003,16:00,Figueirense,Ponte Preta,,,,,-,Â Orlando Scarpelli,0,0,SC,SP
+68,6,27/04/2003,16:00,Santos,Fortaleza,,,,,Santos,Â Vila Belmiro,4,0,SP,CE
+69,6,27/04/2003,16:00,Gremio,Fluminense,,,,,Fluminense,Â OlÃ­mpico,0,1,RS,RJ
+70,6,27/04/2003,16:00,Athletico-PR,Criciuma,,,,,Athletico-PR,Â Arena da Baixada,4,2,PR,SC
+71,6,27/04/2003,18:00,Paysandu,Sao Paulo,,,,,Paysandu,Â MangueirÃ£o,5,2,PA,SP
+72,6,27/04/2003,18:00,Vasco,Sao Caetano,,,,,Vasco,Â SÃ£o JanuÃ¡rio,1,0,RJ,SP
+73,7,03/05/2003,16:00,Flamengo,Vitoria,,,,,Flamengo,Â MaracanÃ£,2,1,RJ,BA
+74,7,03/05/2003,16:00,Bahia,Gremio,,,,,Bahia,Â Fonte Nova,2,1,BA,RS
+75,7,03/05/2003,18:00,Cruzeiro,Athletico-PR,,,,,Cruzeiro,Â MineirÃ£o,5,2,MG,PR
+76,7,04/05/2003,16:00,Fortaleza,Corinthians,,,,,Corinthians,Â CastelÃ£o,1,2,CE,SP
+77,7,04/05/2003,16:00,Sao Paulo,Figueirense,,,,,Sao Paulo,Â Morumbi,3,2,SP,SC
+78,7,04/05/2003,16:00,Sao Caetano,Paysandu,,,,,Sao Caetano,Â Anacleto Campanella,2,0,SP,PA
+79,7,04/05/2003,16:00,Internacional,Goias,,,,,Internacional,Â Beira Rio,2,1,RS,GO
+80,7,04/05/2003,16:00,Ponte Preta,Atletico-MG,,,,,Ponte Preta,Â MoisÃ©s Lucarelli,2,1,SP,MG
+81,7,04/05/2003,16:00,Juventude,Guarani,,,,,-,Â Alfredo Jaconi,1,1,RS,SP
+82,7,04/05/2003,16:00,Coritiba,Parana,,,,,Coritiba,Â Couto Pereira,2,1,PR,PR
+83,7,04/05/2003,18:00,Criciuma,Santos,,,,,Santos,Â Heriberto Hulse,1,3,SC,SP
+84,7,04/05/2003,18:00,Fluminense,Vasco,,,,,-,Â MaracanÃ£,0,0,RJ,RJ
+85,8,10/05/2003,16:00,Goias,Flamengo,,,,,-,Â Serra Dourada,1,1,GO,RJ
+86,8,10/05/2003,16:00,Santos,Cruzeiro,,,,,Cruzeiro,Â Vila Belmiro,0,2,SP,MG
+87,8,10/05/2003,16:00,Parana,Ponte Preta,,,,,Parana,Â PinheirÃ£o,3,2,PR,SP
+88,8,10/05/2003,18:00,Corinthians,Criciuma,,,,,Corinthians,Â Pacaembu,3,0,SP,SC
+89,8,11/05/2003,16:00,Vasco,Bahia,,,,,-,Â SÃ£o JanuÃ¡rio,1,1,RJ,BA
+90,8,11/05/2003,16:00,Paysandu,Fluminense,,,,,-,Â MangueirÃ£o,2,2,PA,RJ
+91,8,11/05/2003,16:00,Atletico-MG,Sao Paulo,,,,,-,Â MineirÃ£o,2,2,MG,SP
+92,8,11/05/2003,16:00,Vitoria,Fortaleza,,,,,Vitoria,Â BarradÃ£o,2,1,BA,CE
+93,8,11/05/2003,16:00,Guarani,Internacional,,,,,Guarani,Â Brinco de Ouro,3,0,SP,RS
+94,8,11/05/2003,16:00,Athletico-PR,Juventude,,,,,Athletico-PR,Â Arena da Baixada,2,0,PR,RS
+95,8,11/05/2003,16:00,Figueirense,Sao Caetano,,,,,Figueirense,Â Orlando Scarpelli,3,0,SC,SP
+96,8,11/05/2003,18:00,Gremio,Coritiba,,,,,Gremio,Â OlÃ­mpico,1,0,RS,PR
+97,9,17/05/2003,16:00,Fluminense,Figueirense,,,,,Fluminense,Â MaracanÃ£,3,0,RJ,SC
+98,9,17/05/2003,16:00,Sao Caetano,Atletico-MG,,,,,Sao Caetano,Â Anacleto Campanella,2,0,SP,MG
+99,9,17/05/2003,18:00,Juventude,Santos,,,,,-,Â Alfredo Jaconi,1,1,RS,SP
+100,9,18/05/2003,16:00,Bahia,Paysandu,,,,,Bahia,Â Fonte Nova,2,0,BA,PA
+101,9,18/05/2003,16:00,Internacional,Athletico-PR,,,,,-,Â Beira Rio,1,1,RS,PR
+102,9,18/05/2003,16:00,Coritiba,Vasco,,,,,-,Â Couto Pereira,1,1,PR,RJ
+103,9,18/05/2003,16:00,Cruzeiro,Corinthians,,,,,-,Â MineirÃ£o,1,1,MG,SP
+104,9,18/05/2003,16:00,Fortaleza,Goias,,,,,Fortaleza,Â CastelÃ£o,1,0,CE,GO
+105,9,18/05/2003,16:00,Ponte Preta,Gremio,,,,,Ponte Preta,Â MoisÃ©s Lucarelli,2,1,SP,RS
+106,9,18/05/2003,16:00,Criciuma,Vitoria,,,,,-,Â Heriberto Hulse,1,1,SC,BA
+107,9,18/05/2003,18:00,Flamengo,Guarani,,,,,-,Â MaracanÃ£,1,1,RJ,SP
+108,9,18/05/2003,18:00,Sao Paulo,Parana,,,,,Sao Paulo,Â Morumbi,2,0,SP,PR
+109,10,24/05/2003,16:00,Atletico-MG,Fluminense,,,,,Atletico-MG,Â  IndependÃªncia,3,0,MG,RJ
+110,10,24/05/2003,16:00,Parana,Sao Caetano,,,,,-,Â PinheirÃ£o,1,1,PR,SP
+111,10,24/05/2003,16:00,Corinthians,Juventude,,,,,Corinthians,Â Pacaembu,3,0,SP,RS
+112,10,24/05/2003,18:00,Vasco,Ponte Preta,,,,,Vasco,Â SÃ£o JanuÃ¡rio,1,0,RJ,SP
+113,10,25/05/2003,16:00,Athletico-PR,Flamengo,,,,,Athletico-PR,Â Arena da Baixada,4,1,PR,RJ
+114,10,25/05/2003,16:00,Paysandu,Coritiba,,,,,Coritiba,Â MangueirÃ£o,1,3,PA,PR
+115,10,25/05/2003,16:00,Goias,Criciuma,,,,,Criciuma,Â Serra Dourada,0,2,GO,SC
+116,10,25/05/2003,16:00,Gremio,Sao Paulo,,,,,Sao Paulo,Â OlÃ­mpico,1,2,RS,SP
+117,10,25/05/2003,16:00,Guarani,Fortaleza,,,,,Guarani,Â Brinco de Ouro,2,1,SP,CE
+118,10,25/05/2003,16:00,Figueirense,Bahia,,,,,Figueirense,Â Orlando Scarpelli,1,0,SC,BA
+119,10,25/05/2003,18:00,Vitoria,Cruzeiro,,,,,Vitoria,Â BarradÃ£o,2,1,BA,MG
+120,10,25/05/2003,18:00,Santos,Internacional,,,,,Santos,Â Vila Belmiro,2,1,SP,RS
+121,11,31/05/2003,16:00,Fluminense,Athletico-PR,,,,,Fluminense,Â  Ã‰dson Passos,2,1,RJ,PR
+122,11,31/05/2003,16:00,Cruzeiro,Criciuma,,,,,Cruzeiro,Â MineirÃ£o,2,0,MG,SC
+123,11,31/05/2003,16:00,Coritiba,Guarani,,,,,Coritiba,Â Couto Pereira,3,2,PR,SP
+124,11,31/05/2003,16:00,Ponte Preta,Sao Caetano,,,,,-,Â MoisÃ©s Lucarelli,0,0,SP,SP
+125,11,31/05/2003,18:00,Internacional,Paysandu,,,,,Internacional,Â Beira Rio,2,1,RS,PA
+126,11,01/06/2003,16:00,Parana,Flamengo,,,,,Parana,Â PinheirÃ£o,6,2,PR,RJ
+127,11,01/06/2003,16:00,Bahia,Goias,,,,,Bahia,Â Fonte Nova,2,1,BA,GO
+128,11,01/06/2003,16:00,Fortaleza,Juventude,,,,,Fortaleza,Â CastelÃ£o,3,1,CE,RS
+129,11,01/06/2003,16:00,Figueirense,Gremio,,,,,Figueirense,Â Orlando Scarpelli,2,1,SC,RS
+130,11,01/06/2003,16:00,Santos,Sao Paulo,,,,,Santos,Â Vila Belmiro,3,2,SP,SP
+131,11,01/06/2003,18:00,Corinthians,Vitoria,,,,,Corinthians,Â Pacaembu,4,0,SP,BA
+132,11,01/06/2003,18:00,Vasco,Atletico-MG,,,,,-,Â SÃ£o JanuÃ¡rio,2,2,RJ,MG
+133,12,07/06/2003,16:00,Vitoria,Fluminense,,,,,Vitoria,Â BarradÃ£o,2,1,BA,RJ
+134,12,07/06/2003,16:00,Guarani,Santos,,,,,Santos,Â Brinco de Ouro,1,2,SP,SP
+135,12,07/06/2003,16:00,Gremio,Fortaleza,,,,,Gremio,Â OlÃ­mpico,3,1,RS,CE
+136,12,07/06/2003,18:00,Atletico-MG,Figueirense,,,,,-,Â  IndependÃªncia,1,1,MG,SC
+137,12,08/06/2003,16:00,Paysandu,Parana,,,,,Paysandu,Â MangueirÃ£o,3,0,PA,PR
+138,12,08/06/2003,16:00,Juventude,Vasco,,,,,-,Â Alfredo Jaconi,0,0,RS,RJ
+139,12,08/06/2003,16:00,Athletico-PR,Ponte Preta,,,,,Athletico-PR,Â Arena da Baixada,4,2,PR,SP
+140,12,08/06/2003,16:00,Goias,Coritiba,,,,,Coritiba,Â Serra Dourada,1,2,GO,PR
+141,12,08/06/2003,16:00,Sao Caetano,Corinthians,,,,,Sao Caetano,Â Anacleto Campanella,1,0,SP,SP
+142,12,08/06/2003,18:00,Criciuma,Internacional,,,,,Criciuma,Â Heriberto Hulse,1,0,SC,RS
+143,12,08/06/2003,18:00,Sao Paulo,Bahia,,,,,-,Â Morumbi,2,2,SP,BA
+144,12,18/04/2003,20:30,Flamengo,Cruzeiro,,,,,Flamengo,Â MaracanÃ£,3,0,RJ,MG
+145,13,14/06/2003,16:00,Fluminense,Goias,,,,,Goias,Â MaracanÃ£,2,3,RJ,GO
+146,13,14/06/2003,16:00,Ponte Preta,Guarani,,,,,Guarani,Â MoisÃ©s Lucarelli,0,2,SP,SP
+147,13,14/06/2003,18:00,Coritiba,Athletico-PR,,,,,Coritiba,Â Couto Pereira,2,0,PR,PR
+148,13,15/06/2003,16:00,Corinthians,Sao Paulo,,,,,Sao Paulo,Â Morumbi,1,2,SP,SP
+149,13,15/06/2003,16:00,Fortaleza,Paysandu,,,,,Paysandu,Â Presidente Vargas,1,2,CE,PA
+150,13,15/06/2003,16:00,Parana,Juventude,,,,,Juventude,Â PinheirÃ£o,1,2,PR,RS
+151,13,15/06/2003,16:00,Gremio,Internacional,,,,,-,Â OlÃ­mpico,0,0,RS,RS
+152,13,15/06/2003,16:00,Santos,Sao Caetano,,,,,Sao Caetano,Â Vila Belmiro,0,1,SP,SP
+153,13,15/06/2003,16:00,Criciuma,Figueirense,,,,,Criciuma,Â Heriberto Hulse,1,0,SC,SC
+154,13,15/06/2003,16:00,Bahia,Vitoria,,,,,Bahia,Â Fonte Nova,2,1,BA,BA
+155,13,15/06/2003,18:00,Vasco,Flamengo,,,,,Flamengo,Â MaracanÃ£,1,2,RJ,RJ
+156,13,15/06/2003,18:00,Cruzeiro,Atletico-MG,,,,,-,Â MineirÃ£o,0,0,MG,MG
+157,14,19/06/2003,16:00,Bahia,Coritiba,,,,,-,Â Fonte Nova,2,2,BA,PR
+158,14,21/06/2003,16:00,Vasco,Criciuma,,,,,Vasco,Â SÃ£o JanuÃ¡rio,2,0,RJ,SC
+159,14,21/06/2003,16:00,Atletico-MG,Gremio,,,,,Atletico-MG,Â MineirÃ£o,3,2,MG,RS
+160,14,21/06/2003,16:00,Internacional,Parana,,,,,Internacional,Â Beira Rio,2,1,RS,PR
+161,14,21/06/2003,18:00,Sao Paulo,Goias,,,,,Sao Paulo,Â Morumbi,1,0,SP,GO
+162,14,22/06/2003,16:00,Paysandu,Flamengo,,,,,-,Â MangueirÃ£o,2,2,PA,RJ
+163,14,22/06/2003,16:00,Ponte Preta,Corinthians,,,,,-,Â MoisÃ©s Lucarelli,3,3,SP,SP
+164,14,22/06/2003,16:00,Sao Caetano,Vitoria,,,,,Sao Caetano,Â Anacleto Campanella,2,1,SP,BA
+165,14,22/06/2003,16:00,Figueirense,Fortaleza,,,,,-,Â Orlando Scarpelli,2,2,SC,CE
+166,14,22/06/2003,18:00,Juventude,Cruzeiro,,,,,Cruzeiro,Â Alfredo Jaconi,0,1,RS,MG
+167,14,22/06/2003,18:00,Fluminense,Guarani,,,,,Fluminense,Â MaracanÃ£,5,2,RJ,SP
+168,15,28/06/2003,16:00,Fortaleza,Vasco,,,,,Vasco,Â CastelÃ£o,0,1,CE,RJ
+169,15,28/06/2003,16:00,Coritiba,Sao Caetano,,,,,Coritiba,Â Couto Pereira,2,0,PR,SP
+170,15,28/06/2003,16:00,Gremio,Juventude,,,,,Juventude,Â OlÃ­mpico,1,4,RS,RS
+171,15,28/06/2003,16:00,Santos,Bahia,,,,,Santos,Â Vila Belmiro,4,0,SP,BA
+172,15,28/06/2003,18:00,Flamengo,Figueirense,,,,,Figueirense,Â MaracanÃ£,0,2,RJ,SC
+173,15,29/06/2003,16:00,Corinthians,Fluminense,,,,,Corinthians,Â Pacaembu,1,0,SP,RJ
+174,15,29/06/2003,16:00,Guarani,Sao Paulo,,,,,Sao Paulo,Â Brinco de Ouro,0,1,SP,SP
+175,15,29/06/2003,16:00,Criciuma,Paysandu,,,,,Criciuma,Â Heriberto Hulse,2,0,SC,PA
+176,15,29/06/2003,16:00,Vitoria,Athletico-PR,,,,,Vitoria,Â BarradÃ£o,1,0,BA,PR
+177,15,29/06/2003,18:00,Cruzeiro,Internacional,,,,,Cruzeiro,Â MineirÃ£o,3,2,MG,RS
+178,15,29/06/2003,18:00,Parana,Atletico-MG,,,,,-,Â PinheirÃ£o,1,1,PR,MG
+181,16,05/07/2003,16:00,Vasco,Parana,,,,,Parana,Â SÃ£o JanuÃ¡rio,1,4,RJ,PR
+182,16,05/07/2003,16:00,Sao Paulo,Sao Caetano,,,,,-,Â Morumbi,1,1,SP,SP
+183,16,05/07/2003,16:00,Figueirense,Cruzeiro,,,,,Figueirense,Â Orlando Scarpelli,1,0,SC,MG
+184,16,05/07/2003,16:00,Atletico-MG,Paysandu,,,,,Atletico-MG,Â  IndependÃªncia,3,2,MG,PA
+185,16,06/07/2003,16:00,Gremio,Flamengo,,,,,Gremio,Â OlÃ­mpico,2,0,RS,RJ
+186,16,06/07/2003,16:00,Guarani,Goias,,,,,Guarani,Â Brinco de Ouro,3,2,SP,GO
+187,16,06/07/2003,16:00,Athletico-PR,Corinthians,,,,,Athletico-PR,Â Arena da Baixada,3,1,PR,SP
+188,16,06/07/2003,16:00,Juventude,Internacional,,,,,-,Â Alfredo Jaconi,1,1,RS,RS
+189,16,06/07/2003,16:00,Fortaleza,Criciuma,,,,,Criciuma,Â Presidente Vargas,0,1,CE,SC
+190,16,06/07/2003,16:00,Vitoria,Ponte Preta,,,,,Ponte Preta,Â BarradÃ£o,1,4,BA,SP
+191,16,06/07/2003,18:00,Santos,Coritiba,,,,,Santos,Â Vila Belmiro,3,1,SP,PR
+192,16,06/07/2003,18:00,Fluminense,Bahia,,,,,Fluminense,Â MaracanÃ£,1,0,RJ,BA
+193,17,09/07/2003,16:00,Sao Caetano,Athletico-PR,,,,,-,Â Anacleto Campanella,0,0,SP,PR
+194,17,09/07/2003,16:00,Corinthians,Santos,,,,,-,Â Morumbi,1,1,SP,SP
+195,17,09/07/2003,20:30,Cruzeiro,Fortaleza,,,,,Cruzeiro,Â MineirÃ£o,2,0,MG,CE
+196,17,09/07/2003,20:30,Bahia,Guarani,,,,,Bahia,Â Fonte Nova,2,0,BA,SP
+197,17,09/07/2003,20:30,Paysandu,Figueirense,,,,,Paysandu,Â MangueirÃ£o,1,0,PA,SC
+198,17,09/07/2003,20:30,Goias,Vitoria,,,,,-,Â Serra Dourada,1,1,GO,BA
+199,17,09/07/2003,20:30,Flamengo,Juventude,,,,,Flamengo,Â MaracanÃ£,2,1,RJ,RS
+200,17,09/07/2003,21:40,Internacional,Vasco,,,,,Internacional,Â Beira Rio,2,1,RS,RJ
+201,17,09/07/2003,21:40,Coritiba,Sao Paulo,,,,,Sao Paulo,Â Couto Pereira,0,2,PR,SP
+202,17,10/07/2003,20:30,Ponte Preta,Fluminense,,,,,Ponte Preta,Â MoisÃ©s Lucarelli,3,0,SP,RJ
+203,17,10/07/2003,20:30,Criciuma,Atletico-MG,,,,,Criciuma,Â Heriberto Hulse,1,0,SC,MG
+204,17,10/07/2003,20:30,Parana,Gremio,,,,,Parana,Â PinheirÃ£o,3,1,PR,RS
+205,18,12/07/2003,16:00,Athletico-PR,Goias,,,,,-,Â Arena da Baixada,0,0,PR,GO
+206,18,12/07/2003,16:00,Fortaleza,Internacional,,,,,Fortaleza,Â CastelÃ£o,3,0,CE,RS
+207,18,12/07/2003,18:00,Vasco,Paysandu,,,,,Paysandu,Â SÃ£o JanuÃ¡rio,0,2,RJ,PA
+208,18,13/07/2003,16:00,Atletico-MG,Flamengo,,,,,Atletico-MG,Â MineirÃ£o,1,0,MG,RJ
+209,18,13/07/2003,16:00,Ponte Preta,Bahia,,,,,Ponte Preta,Â MoisÃ©s Lucarelli,1,0,SP,BA
+210,18,13/07/2003,16:00,Corinthians,Coritiba,,,,,Coritiba,Â Morumbi,0,1,SP,PR
+211,18,13/07/2003,16:00,Criciuma,Juventude,,,,,Criciuma,Â Heriberto Hulse,3,0,SC,RS
+212,18,13/07/2003,16:00,Figueirense,Parana,,,,,Figueirense,Â Orlando Scarpelli,4,2,SC,PR
+213,18,13/07/2003,16:00,Sao Caetano,Guarani,,,,,Guarani,Â Anacleto Campanella,0,2,SP,SP
+214,18,13/07/2003,16:00,Fluminense,Sao Paulo,,,,,Sao Paulo,Â MaracanÃ£,1,3,RJ,SP
+215,18,13/07/2003,18:00,Gremio,Cruzeiro,,,,,Cruzeiro,Â OlÃ­mpico,0,1,RS,MG
+216,18,13/07/2003,18:00,Vitoria,Santos,,,,,Vitoria,Â BarradÃ£o,2,0,BA,SP
+217,19,16/07/2003,20:30,Flamengo,Fortaleza,,,,,Fortaleza,Â MaracanÃ£,0,2,RJ,CE
+218,19,16/07/2003,20:30,Juventude,Figueirense,,,,,Figueirense,Â Alfredo Jaconi,1,2,RS,SC
+219,19,16/07/2003,20:30,Bahia,Sao Caetano,,,,,-,Â Fonte Nova,0,0,BA,SP
+220,19,16/07/2003,20:30,Coritiba,Fluminense,,,,,Coritiba,Â Couto Pereira,3,0,PR,RJ
+221,19,16/07/2003,20:30,Guarani,Vitoria,,,,,-,Â Brinco de Ouro,2,2,SP,BA
+222,19,16/07/2003,20:30,Internacional,Atletico-MG,,,,,-,Â Beira Rio,3,3,RS,MG
+223,19,16/07/2003,21:40,Santos,Ponte Preta,,,,,Santos,Â Vila Belmiro,2,1,SP,SP
+224,19,16/07/2003,21:40,Cruzeiro,Vasco,,,,,Cruzeiro,Â MineirÃ£o,4,1,MG,RJ
+225,19,16/07/2003,21:40,Goias,Corinthians,,,,,-,Â Serra Dourada,1,1,GO,SP
+226,19,17/07/2003,20:30,Paysandu,Gremio,,,,,-,Â MangueirÃ£o,1,1,PA,RS
+227,19,17/07/2003,20:30,Sao Paulo,Athletico-PR,,,,,Sao Paulo,Â Morumbi,2,0,SP,PR
+229,20,19/07/2003,16:00,Fluminense,Santos,,,,,Santos,Â  Giulite Coutinho,1,4,RJ,SP
+230,20,19/07/2003,16:00,Corinthians,Guarani,,,,,Corinthians,Â Pacaembu,1,0,SP,SP
+231,20,19/07/2003,16:00,Fortaleza,Atletico-MG,,,,,Fortaleza,Â CastelÃ£o,4,3,CE,MG
+232,20,19/07/2003,18:00,Internacional,Figueirense,,,,,Internacional,Â Beira Rio,3,0,RS,SC
+233,20,20/07/2003,16:00,Juventude,Paysandu,,,,,Juventude,Â Alfredo Jaconi,2,0,RS,PA
+234,20,20/07/2003,16:00,Athletico-PR,Bahia,,,,,Athletico-PR,Â Arena da Baixada,2,1,PR,BA
+235,20,20/07/2003,16:00,Ponte Preta,Coritiba,,,,,-,Â MoisÃ©s Lucarelli,1,1,SP,PR
+236,20,20/07/2003,16:00,Criciuma,Flamengo,,,,,Criciuma,Â Heriberto Hulse,4,3,SC,RJ
+237,20,20/07/2003,16:00,Goias,Sao Caetano,,,,,Goias,Â Serra Dourada,2,1,GO,SP
+238,20,20/07/2003,16:00,Vitoria,Sao Paulo,,,,,Sao Paulo,Â BarradÃ£o,0,2,BA,SP
+239,20,20/07/2003,18:00,Cruzeiro,Parana,,,,,Cruzeiro,Â MineirÃ£o,5,1,MG,PR
+240,20,20/07/2003,18:00,Vasco,Gremio,,,,,Vasco,Â SÃ£o JanuÃ¡rio,2,0,RJ,RS
+241,21,23/07/2003,20:30,Parana,Fortaleza,,,,,Parana,Â PinheirÃ£o,4,1,PR,CE
+242,21,23/07/2003,20:30,Atletico-MG,Juventude,,,,,Atletico-MG,Â MineirÃ£o,2,1,MG,RS
+243,21,23/07/2003,20:30,Paysandu,Cruzeiro,,,,,Paysandu,Â MangueirÃ£o,3,0,PA,MG
+244,21,23/07/2003,20:30,Guarani,Athletico-PR,,,,,Guarani,Â Brinco de Ouro,1,0,SP,PR
+245,21,23/07/2003,21:40,Figueirense,Vasco,,,,,-,Â Orlando Scarpelli,0,0,SC,RJ
+246,21,23/07/2003,21:40,Santos,Goias,,,,,-,Â Vila Belmiro,3,3,SP,GO
+247,21,23/07/2003,21:40,Bahia,Corinthians,,,,,-,Â Fonte Nova,0,0,BA,SP
+248,21,24/07/2003,20:30,Coritiba,Vitoria,,,,,-,Â Couto Pereira,1,1,PR,BA
+249,21,24/07/2003,20:30,Gremio,Criciuma,,,,,Criciuma,Â OlÃ­mpico,0,2,RS,SC
+250,21,24/07/2003,20:30,Flamengo,Internacional,,,,,Flamengo,Â MaracanÃ£,2,1,RJ,RS
+251,21,24/07/2003,20:30,Sao Caetano,Fluminense,,,,,Sao Caetano,Â Anacleto Campanella,2,0,SP,RJ
+252,21,24/07/2003,20:30,Sao Paulo,Ponte Preta,,,,,Ponte Preta,Â Morumbi,1,2,SP,SP
+253,22,26/07/2003,16:00,Santos,Vasco,,,,,Santos,Â Vila Belmiro,2,1,SP,RJ
+254,22,26/07/2003,16:00,Goias,Atletico-MG,,,,,-,Â Serra Dourada,1,1,GO,MG
+255,22,26/07/2003,16:00,Athletico-PR,Paysandu,,,,,-,Â Arena da Baixada,1,1,PR,PA
+256,22,27/07/2003,09:00,Fortaleza,Ponte Preta,,,,,Ponte Preta,Â CastelÃ£o,2,3,CE,SP
+257,22,27/07/2003,16:00,Juventude,Fluminense,,,,,Juventude,Â Alfredo Jaconi,2,1,RS,RJ
+258,22,27/07/2003,16:00,Flamengo,Sao Paulo,,,,,-,Â MaracanÃ£,1,1,RJ,SP
+259,22,27/07/2003,16:00,Criciuma,Coritiba,,,,,Coritiba,Â Heriberto Hulse,2,3,SC,PR
+260,22,27/07/2003,16:00,Guarani,Figueirense,,,,,Guarani,Â Brinco de Ouro,3,0,SP,SC
+261,22,27/07/2003,16:00,Vitoria,Parana,,,,,Parana,Â BarradÃ£o,0,3,BA,PR
+262,22,27/07/2003,16:00,Corinthians,Gremio,,,,,Corinthians,Â Pacaembu,1,0,SP,RS
+263,22,27/07/2003,18:00,Cruzeiro,Bahia,,,,,Cruzeiro,Â MineirÃ£o,5,2,MG,BA
+264,22,27/07/2003,18:00,Internacional,Sao Caetano,,,,,-,Â Beira Rio,0,0,RS,SP
+179,15,30/07/2003,20:30,Athletico-PR,Santos,,,,,Santos,Â Arena da Baixada,0,2,PR,SP
+180,15,30/07/2003,20:30,Goias,Ponte Preta,,,,,-,Â Serra Dourada,0,0,GO,SP
+228,19,31/07/2003,20:30,Parana,Criciuma,,,,,Parana,Â PinheirÃ£o,2,1,PR,SC
+265,23,02/08/2003,16:00,Fluminense,Cruzeiro,,,,,-,Â  Giulite Coutinho,2,2,RJ,MG
+266,23,02/08/2003,16:00,Gremio,Santos,,,,,Gremio,Â OlÃ­mpico,2,0,RS,SP
+267,23,02/08/2003,18:00,Sao Paulo,Internacional,,,,,Internacional,Â Morumbi,0,2,SP,RS
+268,23,02/08/2003,18:00,Sao Caetano,Juventude,,,,,-,Â Anacleto Campanella,1,1,SP,RS
+269,23,03/08/2003,16:00,Figueirense,Goias,,,,,Goias,Â Orlando Scarpelli,0,1,SC,GO
+270,23,03/08/2003,16:00,Parana,Corinthians,,,,,-,Â Arena da Baixada,1,1,PR,SP
+271,23,03/08/2003,16:00,Paysandu,Guarani,,,,,Paysandu,Â MangueirÃ£o,6,1,PA,SP
+272,23,03/08/2003,16:00,Coritiba,Fortaleza,,,,,-,Â Couto Pereira,1,1,PR,CE
+273,23,03/08/2003,16:00,Bahia,Criciuma,,,,,-,Â Fonte Nova,2,2,BA,SC
+274,23,03/08/2003,16:00,Ponte Preta,Flamengo,,,,,-,Â MoisÃ©s Lucarelli,1,1,SP,RJ
+275,23,03/08/2003,18:00,Vasco,Athletico-PR,,,,,Vasco,Â SÃ£o JanuÃ¡rio,2,1,RJ,PR
+276,23,03/08/2003,18:00,Atletico-MG,Vitoria,,,,,Atletico-MG,Â MineirÃ£o,1,0,MG,BA
+277,24,06/08/2003,20:30,Vitoria,Paysandu,,,,,-,Â BarradÃ£o,1,1,BA,PA
+278,24,06/08/2003,20:30,Athletico-PR,Parana,,,,,Athletico-PR,Â Arena da Baixada,1,0,PR,PR
+279,24,06/08/2003,20:30,Criciuma,Sao Caetano,,,,,Sao Caetano,Â Heriberto Hulse,0,1,SC,SP
+280,24,06/08/2003,20:30,Fortaleza,Fluminense,,,,,Fortaleza,Â CastelÃ£o,3,1,CE,RJ
+281,24,06/08/2003,20:30,Juventude,Ponte Preta,,,,,-,Â Alfredo Jaconi,0,0,RS,SP
+282,24,06/08/2003,21:40,Santos,Atletico-MG,,,,,-,Â Vila Belmiro,3,3,SP,MG
+283,24,06/08/2003,21:40,Goias,Vasco,,,,,Goias,Â Serra Dourada,3,1,GO,RJ
+284,24,06/08/2003,21:40,Cruzeiro,Sao Paulo,,,,,-,Â MineirÃ£o,1,1,MG,SP
+288,24,07/08/2003,15:00,Internacional,Coritiba,,,,,Internacional,Â Beira Rio,1,0,RS,PR
+285,24,07/08/2003,20:30,Flamengo,Bahia,,,,,Flamengo,Â MaracanÃ£,6,0,RJ,BA
+286,24,07/08/2003,20:30,Corinthians,Figueirense,,,,,Figueirense,Â Pacaembu,0,1,SP,SC
+287,24,07/08/2003,20:30,Guarani,Gremio,,,,,Guarani,Â Brinco de Ouro,2,0,SP,RS
+289,25,09/08/2003,16:00,Fluminense,Criciuma,,,,,-,Â MaracanÃ£,1,1,RJ,SC
+290,25,09/08/2003,16:00,Sao Caetano,Cruzeiro,,,,,Sao Caetano,Â Anacleto Campanella,2,0,SP,MG
+291,25,09/08/2003,16:00,Parana,Santos,,,,,Santos,Â Couto Pereira,1,2,PR,SP
+292,25,09/08/2003,18:00,Sao Paulo,Juventude,,,,,Sao Paulo,Â Morumbi,3,1,SP,RS
+293,25,10/08/2003,16:00,Paysandu,Goias,,,,,-,Â MangueirÃ£o,2,2,PA,GO
+294,25,10/08/2003,16:00,Ponte Preta,Internacional,,,,,Internacional,Â MoisÃ©s Lucarelli,1,4,SP,RS
+295,25,10/08/2003,16:00,Coritiba,Flamengo,,,,,Coritiba,Â Couto Pereira,5,0,PR,RJ
+296,25,10/08/2003,16:00,Atletico-MG,Corinthians,,,,,Corinthians,Â MineirÃ£o,2,3,MG,SP
+297,25,10/08/2003,16:00,Figueirense,Vitoria,,,,,Vitoria,Â Orlando Scarpelli,1,2,SC,BA
+298,25,10/08/2003,16:00,Bahia,Fortaleza,,,,,Bahia,Â Fonte Nova,1,0,BA,CE
+299,25,10/08/2003,18:00,Vasco,Guarani,,,,,-,Â SÃ£o JanuÃ¡rio,0,0,RJ,SP
+300,25,10/08/2003,18:00,Gremio,Athletico-PR,,,,,-,Â OlÃ­mpico,1,1,RS,PR
+301,26,16/08/2003,16:00,Vasco,Vitoria,,,,,Vasco,Â SÃ£o JanuÃ¡rio,1,0,RJ,BA
+302,26,16/08/2003,16:00,Bahia,Internacional,,,,,Internacional,Â Fonte Nova,1,3,BA,RS
+303,26,16/08/2003,16:00,Figueirense,Santos,,,,,Figueirense,Â Orlando Scarpelli,1,0,SC,SP
+304,26,16/08/2003,16:00,Coritiba,Juventude,,,,,Coritiba,Â Couto Pereira,1,0,PR,RS
+305,26,16/08/2003,18:00,Atletico-MG,Athletico-PR,,,,,Athletico-PR,Â MineirÃ£o,1,2,MG,PR
+306,26,16/08/2003,18:00,Sao Paulo,Criciuma,,,,,-,Â  Santa Cruz,0,0,SP,SC
+307,26,17/08/2003,16:00,Paysandu,Corinthians,,,,,-,Â MangueirÃ£o,2,2,PA,SP
+308,26,17/08/2003,16:00,Sao Caetano,Fortaleza,,,,,Sao Caetano,Â Anacleto Campanella,3,0,SP,CE
+309,26,17/08/2003,16:00,Ponte Preta,Cruzeiro,,,,,Cruzeiro,Â MoisÃ©s Lucarelli,1,3,SP,MG
+310,26,17/08/2003,16:00,Parana,Guarani,,,,,-,Â PinheirÃ£o,0,0,PR,SP
+311,26,17/08/2003,16:00,Gremio,Goias,,,,,Goias,Â OlÃ­mpico,0,1,RS,GO
+312,26,17/08/2003,18:00,Fluminense,Flamengo,,,,,Flamengo,Â MaracanÃ£,0,1,RJ,RJ
+313,27,20/08/2003,20:30,Flamengo,Sao Caetano,,,,,Flamengo,Â MaracanÃ£,1,0,RJ,SP
+314,27,20/08/2003,20:30,Goias,Parana,,,,,Goias,Â Serra Dourada,1,0,GO,PR
+315,27,20/08/2003,20:30,Juventude,Bahia,,,,,Juventude,Â Alfredo Jaconi,1,0,RS,BA
+316,27,20/08/2003,20:30,Cruzeiro,Coritiba,,,,,-,Â MineirÃ£o,2,2,MG,PR
+317,27,20/08/2003,20:30,Athletico-PR,Figueirense,,,,,Figueirense,Â Arena da Baixada,1,2,PR,SC
+318,27,20/08/2003,20:30,Vitoria,Gremio,,,,,Vitoria,Â BarradÃ£o,4,1,BA,RS
+319,27,20/08/2003,21:40,Santos,Paysandu,,,,,Santos,Â Vila Belmiro,2,0,SP,PA
+320,27,20/08/2003,21:40,Fortaleza,Sao Paulo,,,,,Sao Paulo,Â CastelÃ£o,0,2,CE,SP
+321,27,20/08/2003,21:40,Corinthians,Vasco,,,,,-,Â Pacaembu,0,0,SP,RJ
+322,27,21/08/2003,15:00,Internacional,Fluminense,,,,,Fluminense,Â Beira Rio,0,1,RS,RJ
+323,27,21/08/2003,20:30,Guarani,Atletico-MG,,,,,-,Â Brinco de Ouro,2,2,SP,MG
+324,27,21/08/2003,20:30,Criciuma,Ponte Preta,,,,,Criciuma,Â Heriberto Hulse,3,0,SC,SP
+325,28,23/08/2003,16:00,Santos,Flamengo,,,,,Santos,Â Vila Belmiro,2,1,SP,RJ
+326,28,23/08/2003,16:00,Athletico-PR,Fortaleza,,,,,Athletico-PR,Â Arena da Baixada,3,1,PR,CE
+327,28,23/08/2003,16:00,Goias,Cruzeiro,,,,,Goias,Â Serra Dourada,1,0,GO,MG
+328,28,23/08/2003,18:00,Gremio,Sao Caetano,,,,,-,Â OlÃ­mpico,0,0,RS,SP
+329,28,24/08/2003,16:00,Vasco,Sao Paulo,,,,,Vasco,Â SÃ£o JanuÃ¡rio,3,2,RJ,SP
+330,28,24/08/2003,16:00,Paysandu,Ponte Preta,,,,,Paysandu,Â MangueirÃ£o,3,2,PA,SP
+331,28,24/08/2003,16:00,Parana,Fluminense,,,,,Parana,Â  Willie Davids,2,0,PR,RJ
+332,28,24/08/2003,16:00,Vitoria,Juventude,,,,,Vitoria,Â BarradÃ£o,3,0,BA,RS
+333,28,24/08/2003,16:00,Guarani,Criciuma,,,,,Guarani,Â Brinco de Ouro,1,0,SP,SC
+334,28,24/08/2003,16:00,Figueirense,Coritiba,,,,,Coritiba,Â Orlando Scarpelli,1,2,SC,PR
+335,28,24/08/2003,18:00,Corinthians,Internacional,,,,,Corinthians,Â Pacaembu,3,1,SP,RS
+336,28,24/08/2003,18:00,Atletico-MG,Bahia,,,,,Atletico-MG,Â MineirÃ£o,1,0,MG,BA
+337,29,30/08/2003,16:00,Fluminense,Gremio,,,,,Fluminense,Â  Municipal Juiz de Fora,2,0,RJ,RS
+338,29,30/08/2003,16:00,Fortaleza,Santos,,,,,-,Â CastelÃ£o,0,0,CE,SP
+339,29,30/08/2003,16:00,Internacional,Vitoria,,,,,Vitoria,Â Beira Rio,0,1,RS,BA
+340,29,30/08/2003,18:00,Cruzeiro,Guarani,,,,,Cruzeiro,Â MineirÃ£o,4,1,MG,SP
+341,29,30/08/2003,18:00,Sao Paulo,Paysandu,,,,,Sao Paulo,Â  Benedito Teixeira,1,0,SP,PA
+342,29,31/08/2003,16:00,Sao Caetano,Vasco,,,,,Sao Caetano,Â Anacleto Campanella,1,0,SP,RJ
+343,29,31/08/2003,16:00,Juventude,Goias,,,,,Goias,Â Alfredo Jaconi,0,2,RS,GO
+344,29,31/08/2003,16:00,Flamengo,Corinthians,,,,,Flamengo,Â MaracanÃ£,1,0,RJ,SP
+345,29,31/08/2003,16:00,Bahia,Parana,,,,,Bahia,Â Fonte Nova,4,2,BA,PR
+346,29,31/08/2003,16:00,Ponte Preta,Figueirense,,,,,-,Â MoisÃ©s Lucarelli,1,1,SP,SC
+347,29,31/08/2003,18:00,Criciuma,Athletico-PR,,,,,Criciuma,Â Heriberto Hulse,2,0,SC,PR
+348,29,31/08/2003,18:00,Coritiba,Atletico-MG,,,,,-,Â Couto Pereira,2,2,PR,MG
+349,30,13/09/2003,16:00,Santos,Criciuma,,,,,Santos,Â Vila Belmiro,5,2,SP,SC
+350,30,13/09/2003,16:00,Athletico-PR,Cruzeiro,,,,,Cruzeiro,Â Arena da Baixada,1,4,PR,MG
+351,30,13/09/2003,18:00,Gremio,Bahia,,,,,-,Â OlÃ­mpico,1,1,RS,BA
+352,30,13/09/2003,18:00,Corinthians,Fortaleza,,,,,Corinthians,Â Pacaembu,2,0,SP,CE
+353,30,14/09/2003,16:00,Vitoria,Flamengo,,,,,Vitoria,Â BarradÃ£o,1,0,BA,RJ
+354,30,14/09/2003,16:00,Figueirense,Sao Paulo,,,,,-,Â Orlando Scarpelli,2,2,SC,SP
+355,30,14/09/2003,16:00,Goias,Internacional,,,,,Goias,Â Serra Dourada,3,1,GO,RS
+356,30,14/09/2003,16:00,Paysandu,Sao Caetano,,,,,Paysandu,Â MangueirÃ£o,1,0,PA,SP
+357,30,14/09/2003,16:00,Guarani,Juventude,,,,,Guarani,Â Brinco de Ouro,2,0,SP,RS
+358,30,14/09/2003,16:00,Parana,Coritiba,,,,,Coritiba,Â Couto Pereira,2,3,PR,PR
+359,30,14/09/2003,18:00,Vasco,Fluminense,,,,,Vasco,Â MaracanÃ£,1,0,RJ,RJ
+360,30,14/09/2003,18:00,Atletico-MG,Ponte Preta,,,,,Atletico-MG,Â  IndependÃªncia,2,0,MG,SP
+361,31,20/09/2003,16:00,Cruzeiro,Santos,,,,,Cruzeiro,Â MineirÃ£o,3,0,MG,SP
+362,31,20/09/2003,16:00,Coritiba,Gremio,,,,,Coritiba,Â Couto Pereira,1,0,PR,RS
+363,31,20/09/2003,16:00,Ponte Preta,Parana,,,,,Ponte Preta,Â Vila Belmiro,4,0,SP,PR
+364,31,20/09/2003,18:00,Fluminense,Paysandu,,,,,-,Â MaracanÃ£,1,1,RJ,PA
+365,31,20/09/2003,18:00,Internacional,Guarani,,,,,Internacional,Â Beira Rio,2,0,RS,SP
+366,31,21/09/2003,16:00,Bahia,Vasco,,,,,Bahia,Â Fonte Nova,3,0,BA,RJ
+367,31,21/09/2003,16:00,Criciuma,Corinthians,,,,,Criciuma,Â Heriberto Hulse,1,0,SC,SP
+368,31,21/09/2003,16:00,Fortaleza,Vitoria,,,,,Fortaleza,Â  PlÃ¡cido Castelo,1,0,CE,BA
+369,31,21/09/2003,16:00,Juventude,Athletico-PR,,,,,Juventude,Â Alfredo Jaconi,4,0,RS,PR
+370,31,21/09/2003,16:00,Sao Caetano,Figueirense,,,,,Figueirense,Â Anacleto Campanella,0,2,SP,SC
+371,31,21/09/2003,18:00,Sao Paulo,Atletico-MG,,,,,-,Â Morumbi,2,2,SP,MG
+372,31,21/09/2003,18:00,Flamengo,Goias,,,,,-,Â MaracanÃ£,1,1,RJ,GO
+373,32,24/09/2003,19:00,Athletico-PR,Internacional,,,,,Athletico-PR,Â Arena da Baixada,2,1,PR,RS
+374,32,24/09/2003,20:30,Gremio,Ponte Preta,,,,,-,Â OlÃ­mpico,2,2,RS,SP
+375,32,24/09/2003,20:30,Goias,Fortaleza,,,,,Fortaleza,Â Serra Dourada,0,1,GO,CE
+376,32,24/09/2003,20:30,Paysandu,Bahia,,,,,Paysandu,Â MangueirÃ£o,4,0,PA,BA
+377,32,24/09/2003,20:30,Vitoria,Criciuma,,,,,-,Â BarradÃ£o,1,1,BA,SC
+378,32,24/09/2003,21:40,Guarani,Flamengo,,,,,Guarani,Â Brinco de Ouro,5,3,SP,RJ
+379,32,24/09/2003,21:40,Parana,Sao Paulo,,,,,Parana,Â PinheirÃ£o,4,2,PR,SP
+380,32,24/09/2003,21:40,Santos,Juventude,,,,,-,Â Vila Belmiro,1,1,SP,RS
+381,32,24/09/2003,21:40,Corinthians,Cruzeiro,,,,,Cruzeiro,Â Pacaembu,0,1,SP,MG
+382,32,25/09/2003,20:30,Figueirense,Fluminense,,,,,-,Â Orlando Scarpelli,2,2,SC,RJ
+383,32,25/09/2003,20:30,Vasco,Coritiba,,,,,Vasco,Â SÃ£o JanuÃ¡rio,2,1,RJ,PR
+384,32,25/09/2003,20:30,Atletico-MG,Sao Caetano,,,,,Atletico-MG,Â  IndependÃªncia,3,1,MG,SP
+385,33,27/09/2003,16:00,Internacional,Santos,,,,,Internacional,Â Beira Rio,1,0,RS,SP
+386,33,27/09/2003,16:00,Sao Paulo,Gremio,,,,,Sao Paulo,Â Morumbi,3,1,SP,RS
+387,33,27/09/2003,18:00,Flamengo,Athletico-PR,,,,,Flamengo,Â MaracanÃ£,2,1,RJ,PR
+388,33,28/09/2003,16:00,Cruzeiro,Vitoria,,,,,Cruzeiro,Â MineirÃ£o,1,0,MG,BA
+389,33,28/09/2003,16:00,Bahia,Figueirense,,,,,-,Â Fonte Nova,1,1,BA,SC
+390,33,28/09/2003,16:00,Criciuma,Goias,,,,,Criciuma,Â Heriberto Hulse,1,0,SC,GO
+391,33,28/09/2003,16:00,Fortaleza,Guarani,,,,,Fortaleza,Â Presidente Vargas,3,0,CE,SP
+392,33,28/09/2003,16:00,Juventude,Corinthians,,,,,Juventude,Â Alfredo Jaconi,6,1,RS,SP
+393,33,28/09/2003,16:00,Ponte Preta,Vasco,,,,,-,Â MoisÃ©s Lucarelli,2,2,SP,RJ
+394,33,28/09/2003,16:00,Sao Caetano,Parana,,,,,Sao Caetano,Â Anacleto Campanella,2,0,SP,PR
+395,33,28/09/2003,18:00,Fluminense,Atletico-MG,,,,,Atletico-MG,Â  Giulite Coutinho,0,1,RJ,MG
+396,33,28/09/2003,18:00,Coritiba,Paysandu,,,,,Coritiba,Â Couto Pereira,1,0,PR,PA
+397,34,04/10/2003,16:00,Athletico-PR,Fluminense,,,,,-,Â Arena da Baixada,0,0,PR,RJ
+398,34,04/10/2003,16:00,Paysandu,Internacional,,,,,-,Â MangueirÃ£o,0,0,PA,RS
+399,34,04/10/2003,16:00,Sao Caetano,Ponte Preta,,,,,Sao Caetano,Â Anacleto Campanella,1,0,SP,SP
+400,34,04/10/2003,18:00,Gremio,Figueirense,,,,,Gremio,Â OlÃ­mpico,3,1,RS,SC
+401,34,04/10/2003,18:00,Sao Paulo,Santos,,,,,Santos,Â Morumbi,1,2,SP,SP
+402,34,05/10/2003,16:00,Vitoria,Corinthians,,,,,Corinthians,Â BarradÃ£o,1,2,BA,SP
+403,34,05/10/2003,16:00,Goias,Bahia,,,,,Goias,Â Serra Dourada,3,1,GO,BA
+404,34,05/10/2003,16:00,Atletico-MG,Vasco,,,,,Atletico-MG,Â  IndependÃªncia,2,1,MG,RJ
+405,34,05/10/2003,16:00,Juventude,Fortaleza,,,,,-,Â Alfredo Jaconi,2,2,RS,CE
+406,34,05/10/2003,16:00,Guarani,Coritiba,,,,,Guarani,Â Brinco de Ouro,2,1,SP,PR
+407,34,05/10/2003,18:00,Flamengo,Parana,,,,,Parana,Â MaracanÃ£,0,3,RJ,PR
+408,34,05/10/2003,18:00,Criciuma,Cruzeiro,,,,,Cruzeiro,Â Heriberto Hulse,1,3,SC,MG
+409,35,08/10/2003,19:00,Vasco,Juventude,,,,,-,Â MaracanÃ£,1,1,RJ,RS
+410,35,08/10/2003,20:30,Fortaleza,Gremio,,,,,-,Â CastelÃ£o,2,2,CE,RS
+411,35,08/10/2003,20:30,Corinthians,Sao Caetano,,,,,Sao Caetano,Â Pacaembu,0,3,SP,SP
+412,35,08/10/2003,20:30,Coritiba,Goias,,,,,Coritiba,Â Couto Pereira,1,0,PR,GO
+413,35,08/10/2003,20:30,Ponte Preta,Athletico-PR,,,,,-,Â MoisÃ©s Lucarelli,2,2,SP,PR
+414,35,08/10/2003,21:40,Santos,Guarani,,,,,-,Â Vila Belmiro,1,1,SP,SP
+415,35,08/10/2003,21:40,Bahia,Sao Paulo,,,,,Bahia,Â Fonte Nova,3,0,BA,SP
+416,35,08/10/2003,21:40,Cruzeiro,Flamengo,,,,,Cruzeiro,Â MineirÃ£o,2,0,MG,RJ
+417,35,09/10/2003,20:30,Parana,Paysandu,,,,,Parana,Â Couto Pereira,4,2,PR,PA
+418,35,09/10/2003,20:30,Internacional,Criciuma,,,,,Internacional,Â Beira Rio,2,0,RS,SC
+419,35,09/10/2003,20:30,Fluminense,Vitoria,,,,,Fluminense,Â MaracanÃ£,2,0,RJ,BA
+420,35,09/10/2003,20:30,Figueirense,Atletico-MG,,,,,Atletico-MG,Â Orlando Scarpelli,0,1,SC,MG
+421,36,11/10/2003,16:00,Athletico-PR,Coritiba,,,,,Athletico-PR,Â Arena da Baixada,2,0,PR,PR
+422,36,11/10/2003,16:00,Guarani,Ponte Preta,,,,,Ponte Preta,Â Brinco de Ouro,1,3,SP,SP
+423,36,11/10/2003,16:00,Sao Caetano,Santos,,,,,-,Â Anacleto Campanella,2,2,SP,SP
+424,36,12/10/2003,16:00,Atletico-MG,Cruzeiro,,,,,Cruzeiro,Â MineirÃ£o,0,1,MG,MG
+425,36,12/10/2003,16:00,Figueirense,Criciuma,,,,,Figueirense,Â Orlando Scarpelli,4,2,SC,SC
+426,36,12/10/2003,16:00,Sao Paulo,Corinthians,,,,,Sao Paulo,Â Morumbi,3,0,SP,SP
+427,36,12/10/2003,16:00,Vitoria,Bahia,,,,,Vitoria,Â BarradÃ£o,2,1,BA,BA
+428,36,12/10/2003,16:00,Goias,Fluminense,,,,,Goias,Â Serra Dourada,6,1,GO,RJ
+429,36,12/10/2003,16:00,Juventude,Parana,,,,,-,Â Alfredo Jaconi,1,1,RS,PR
+430,36,12/10/2003,18:00,Flamengo,Vasco,,,,,Flamengo,Â MaracanÃ£,2,1,RJ,RJ
+431,36,12/10/2003,18:00,Internacional,Gremio,,,,,Gremio,Â Beira Rio,0,1,RS,RS
+432,36,15/10/2003,16:00,Paysandu,Fortaleza,,,,,Paysandu,Â MangueirÃ£o,3,0,PA,CE
+433,37,18/10/2003,16:00,Goias,Sao Paulo,,,,,Goias,Â Serra Dourada,3,1,GO,SP
+434,37,18/10/2003,16:00,Guarani,Fluminense,,,,,Guarani,Â Brinco de Ouro,2,0,SP,RJ
+435,37,18/10/2003,18:00,Flamengo,Paysandu,,,,,Flamengo,Â MaracanÃ£,2,0,RJ,PA
+436,37,18/10/2003,18:00,Gremio,Atletico-MG,,,,,-,Â OlÃ­mpico,2,2,RS,MG
+437,37,18/10/2003,19:00,Coritiba,Bahia,,,,,Coritiba,Â Couto Pereira,3,2,PR,BA
+438,37,19/10/2003,16:00,Parana,Internacional,,,,,Parana,Â Couto Pereira,4,0,PR,RS
+439,37,19/10/2003,16:00,Santos,Athletico-PR,,,,,Santos,Â Vila Belmiro,3,2,SP,PR
+440,37,19/10/2003,16:00,Criciuma,Vasco,,,,,Criciuma,Â Heriberto Hulse,2,1,SC,RJ
+441,37,19/10/2003,17:00,Fortaleza,Figueirense,,,,,-,Â Presidente Vargas,1,1,CE,SC
+442,37,19/10/2003,17:00,Vitoria,Sao Caetano,,,,,-,Â BarradÃ£o,0,0,BA,SP
+443,37,19/10/2003,18:00,Corinthians,Ponte Preta,,,,,Corinthians,Â Pacaembu,3,0,SP,SP
+444,37,19/10/2003,18:00,Cruzeiro,Juventude,,,,,Juventude,Â MineirÃ£o,1,2,MG,RS
+445,38,22/10/2003,20:30,Ponte Preta,Goias,,,,,Goias,Â MoisÃ©s Lucarelli,0,2,SP,GO
+446,38,22/10/2003,20:30,Sao Caetano,Coritiba,,,,,Sao Caetano,Â Anacleto Campanella,2,0,SP,PR
+447,38,22/10/2003,20:30,Athletico-PR,Vitoria,,,,,Vitoria,Â  EstÃ¡dio do CafÃ©,1,2,PR,BA
+448,38,22/10/2003,20:30,Figueirense,Flamengo,,,,,-,Â Orlando Scarpelli,0,0,SC,RJ
+449,38,22/10/2003,21:40,Fluminense,Corinthians,,,,,Fluminense,Â MaracanÃ£,1,0,RJ,SP
+450,38,22/10/2003,21:40,Internacional,Cruzeiro,,,,,Internacional,Â Beira Rio,1,0,RS,MG
+451,38,22/10/2003,21:40,Bahia,Santos,,,,,Santos,Â Fonte Nova,4,7,BA,SP
+453,38,23/10/2003,20:30,Sao Paulo,Guarani,,,,,-,Â Morumbi,3,3,SP,SP
+454,38,23/10/2003,20:30,Atletico-MG,Parana,,,,,-,Â MineirÃ£o,2,2,MG,PR
+455,38,23/10/2003,20:30,Juventude,Gremio,,,,,Gremio,Â Alfredo Jaconi,1,2,RS,RS
+456,38,23/10/2003,20:30,Vasco,Fortaleza,,,,,-,Â  Vivaldo Lima,1,1,RJ,CE
+452,38,23/10/2003,21:30,Paysandu,Criciuma,,,,,Paysandu,Â MangueirÃ£o,4,0,PA,SC
+457,39,25/10/2003,16:00,Coritiba,Santos,,,,,Santos,Â Couto Pereira,0,4,PR,SP
+458,39,25/10/2003,16:00,Bahia,Fluminense,,,,,-,Â Fonte Nova,2,2,BA,RJ
+459,39,25/10/2003,17:00,Ponte Preta,Vitoria,,,,,-,Â MoisÃ©s Lucarelli,1,1,SP,BA
+460,39,25/10/2003,19:00,Cruzeiro,Figueirense,,,,,Cruzeiro,Â MineirÃ£o,1,0,MG,SC
+461,39,26/10/2003,16:00,Sao Caetano,Sao Paulo,,,,,Sao Paulo,Â Anacleto Campanella,0,1,SP,SP
+462,39,26/10/2003,16:00,Parana,Vasco,,,,,-,Â Orlando Scarpelli,3,3,PR,RJ
+463,39,26/10/2003,16:00,Goias,Guarani,,,,,Goias,Â Serra Dourada,3,0,GO,SP
+464,39,26/10/2003,16:00,Criciuma,Fortaleza,,,,,-,Â Heriberto Hulse,2,2,SC,CE
+465,39,26/10/2003,16:00,Corinthians,Athletico-PR,,,,,Athletico-PR,Â Pacaembu,2,3,SP,PR
+466,39,26/10/2003,17:00,Paysandu,Atletico-MG,,,,,Paysandu,Â MangueirÃ£o,1,0,PA,MG
+467,39,26/10/2003,18:00,Flamengo,Gremio,,,,,Flamengo,Â MaracanÃ£,2,1,RJ,RS
+468,39,26/10/2003,18:00,Internacional,Juventude,,,,,-,Â Beira Rio,0,0,RS,RS
+469,40,01/11/2003,16:00,Guarani,Bahia,,,,,Guarani,Â Brinco de Ouro,3,2,SP,BA
+470,40,01/11/2003,16:00,Athletico-PR,Sao Caetano,,,,,Athletico-PR,Â Arena da Baixada,1,0,PR,SP
+471,40,01/11/2003,16:00,Gremio,Parana,,,,,Parana,Â OlÃ­mpico,0,2,RS,PR
+472,40,01/11/2003,18:00,Fluminense,Ponte Preta,,,,,-,Â MaracanÃ£,2,2,RJ,SP
+473,40,01/11/2003,18:00,Atletico-MG,Criciuma,,,,,-,Â  IndependÃªncia,1,1,MG,SC
+474,40,02/11/2003,16:00,Santos,Corinthians,,,,,Santos,Â Vila Belmiro,3,1,SP,SP
+475,40,02/11/2003,16:00,Juventude,Flamengo,,,,,-,Â Alfredo Jaconi,2,2,RS,RJ
+476,40,02/11/2003,16:00,Fortaleza,Cruzeiro,,,,,Cruzeiro,Â CastelÃ£o,1,2,CE,MG
+477,40,02/11/2003,16:00,Figueirense,Paysandu,,,,,Figueirense,Â Orlando Scarpelli,6,0,SC,PA
+478,40,02/11/2003,17:00,Vitoria,Goias,,,,,Goias,Â BarradÃ£o,3,4,BA,GO
+479,40,02/11/2003,18:00,Vasco,Internacional,,,,,Internacional,Â  BatistÃ£o,0,1,RJ,RS
+480,40,02/11/2003,18:00,Sao Paulo,Coritiba,,,,,Sao Paulo,Â Morumbi,1,0,SP,PR
+481,41,05/11/2003,20:30,Parana,Figueirense,,,,,-,Â  EstÃ¡dio do CafÃ©,1,1,PR,SC
+482,41,05/11/2003,20:30,Internacional,Fortaleza,,,,,-,Â Beira Rio,1,1,RS,CE
+483,41,05/11/2003,20:30,Juventude,Criciuma,,,,,Juventude,Â Alfredo Jaconi,3,1,RS,SC
+484,41,05/11/2003,21:30,Paysandu,Vasco,,,,,Vasco,Â MangueirÃ£o,1,2,PA,RJ
+485,41,05/11/2003,21:40,Sao Paulo,Fluminense,,,,,Sao Paulo,Â Morumbi,1,0,SP,RJ
+486,41,05/11/2003,21:40,Coritiba,Corinthians,,,,,Coritiba,Â Couto Pereira,1,0,PR,SP
+487,41,05/11/2003,21:40,Santos,Vitoria,,,,,Santos,Â Vila Belmiro,3,1,SP,BA
+488,41,05/11/2003,21:40,Cruzeiro,Gremio,,,,,Cruzeiro,Â MineirÃ£o,3,0,MG,RS
+490,41,06/11/2003,20:30,Goias,Athletico-PR,,,,,Goias,Â Serra Dourada,4,1,GO,PR
+492,41,06/11/2003,20:30,Guarani,Sao Caetano,,,,,Sao Caetano,Â Brinco de Ouro,0,1,SP,SP
+489,41,06/11/2003,21:30,Bahia,Ponte Preta,,,,,Bahia,Â Fonte Nova,1,0,BA,SP
+491,41,06/11/2003,21:30,Flamengo,Atletico-MG,,,,,Flamengo,Â MaracanÃ£,3,2,RJ,MG
+493,42,08/11/2003,16:00,Fluminense,Coritiba,,,,,Fluminense,Â MaracanÃ£,3,2,RJ,PR
+494,42,08/11/2003,18:00,Gremio,Paysandu,,,,,Gremio,Â OlÃ­mpico,2,0,RS,PA
+495,42,08/11/2003,18:00,Criciuma,Parana,,,,,Parana,Â  Ressacada,1,2,SC,PR
+496,42,09/11/2003,16:00,Ponte Preta,Santos,,,,,Santos,Â MoisÃ©s Lucarelli,3,4,SP,SP
+497,42,09/11/2003,16:00,Vasco,Cruzeiro,,,,,Cruzeiro,Â  Pedro Pedrossian,0,1,RJ,MG
+498,42,09/11/2003,16:00,Fortaleza,Flamengo,,,,,Fortaleza,Â CastelÃ£o,4,1,CE,RJ
+499,42,09/11/2003,16:00,Athletico-PR,Sao Paulo,,,,,Athletico-PR,Â Arena da Baixada,4,3,PR,SP
+500,42,09/11/2003,16:00,Sao Caetano,Bahia,,,,,Sao Caetano,Â Anacleto Campanella,4,1,SP,BA
+501,42,09/11/2003,16:00,Figueirense,Juventude,,,,,Figueirense,Â Orlando Scarpelli,2,1,SC,RS
+502,42,09/11/2003,17:00,Vitoria,Guarani,,,,,-,Â BarradÃ£o,0,0,BA,SP
+503,42,09/11/2003,18:00,Corinthians,Goias,,,,,Corinthians,Â Pacaembu,2,0,SP,GO
+504,42,09/11/2003,18:00,Atletico-MG,Internacional,,,,,Internacional,Â  IndependÃªncia,1,2,MG,RS
+505,43,22/11/2003,17:00,Figueirense,Internacional,,,,,Figueirense,Â Orlando Scarpelli,3,2,SC,RS
+506,43,22/11/2003,17:00,Atletico-MG,Fortaleza,,,,,Atletico-MG,Â  IpatingÃ£o,2,0,MG,CE
+507,43,22/11/2003,17:00,Coritiba,Ponte Preta,,,,,-,Â Couto Pereira,1,1,PR,SP
+508,43,22/11/2003,18:00,Gremio,Vasco,,,,,Gremio,Â OlÃ­mpico,4,3,RS,RJ
+509,43,22/11/2003,18:00,Flamengo,Criciuma,,,,,Flamengo,Â MaracanÃ£,1,0,RJ,SC
+510,43,23/11/2003,16:00,Santos,Fluminense,,,,,Santos,Â Vila Belmiro,3,1,SP,RJ
+511,43,23/11/2003,16:00,Parana,Cruzeiro,,,,,Cruzeiro,Â PinheirÃ£o,1,3,PR,MG
+512,43,23/11/2003,17:00,Sao Caetano,Goias,,,,,Sao Caetano,Â Anacleto Campanella,1,0,SP,GO
+513,43,23/11/2003,17:00,Bahia,Athletico-PR,,,,,Athletico-PR,Â Fonte Nova,0,2,BA,PR
+514,43,23/11/2003,18:00,Sao Paulo,Vitoria,,,,,Sao Paulo,Â Morumbi,3,1,SP,BA
+515,43,23/11/2003,18:00,Guarani,Corinthians,,,,,Corinthians,Â Brinco de Ouro,0,1,SP,SP
+516,43,23/11/2003,18:00,Paysandu,Juventude,,,,,Paysandu,Â MangueirÃ£o,3,2,PA,RS
+517,44,29/11/2003,17:00,Vasco,Figueirense,,,,,Vasco,Â SÃ£o JanuÃ¡rio,1,0,RJ,SC
+518,44,29/11/2003,17:00,Juventude,Atletico-MG,,,,,Juventude,Â Alfredo Jaconi,1,0,RS,MG
+519,44,29/11/2003,17:00,Athletico-PR,Guarani,,,,,Athletico-PR,Â Arena da Baixada,3,1,PR,SP
+520,44,29/11/2003,18:00,Fluminense,Sao Caetano,,,,,Fluminense,Â MaracanÃ£,2,1,RJ,SP
+521,44,29/11/2003,18:00,Internacional,Flamengo,,,,,Internacional,Â Beira Rio,3,1,RS,RJ
+522,44,30/11/2003,16:00,Goias,Santos,,,,,Goias,Â Serra Dourada,3,0,GO,SP
+523,44,30/11/2003,16:00,Fortaleza,Parana,,,,,Fortaleza,Â CastelÃ£o,5,3,CE,PR
+524,44,30/11/2003,16:00,Criciuma,Gremio,,,,,Gremio,Â Heriberto Hulse,0,2,SC,RS
+528,44,30/11/2003,16:00,Cruzeiro,Paysandu,,,,,Cruzeiro,Â MineirÃ£o,2,1,MG,PA
+525,44,30/11/2003,17:00,Vitoria,Coritiba,,,,,Vitoria,Â BarradÃ£o,1,0,BA,PR
+526,44,30/11/2003,18:00,Ponte Preta,Sao Paulo,,,,,Sao Paulo,Â MoisÃ©s Lucarelli,1,2,SP,SP
+527,44,30/11/2003,18:00,Corinthians,Bahia,,,,,Bahia,Â Pacaembu,1,2,SP,BA
+529,45,06/12/2003,17:00,Vitoria,Atletico-MG,,,,,Atletico-MG,Â BarradÃ£o,0,1,BA,MG
+530,45,06/12/2003,17:00,Goias,Figueirense,,,,,Figueirense,Â Serra Dourada,0,3,GO,SC
+531,45,06/12/2003,18:00,Athletico-PR,Vasco,,,,,-,Â Arena da Baixada,2,2,PR,RJ
+532,45,06/12/2003,18:00,Corinthians,Parana,,,,,-,Â Pacaembu,1,1,SP,PR
+533,45,07/12/2003,16:00,Cruzeiro,Fluminense,,,,,Cruzeiro,Â MineirÃ£o,5,2,MG,RJ
+534,45,07/12/2003,16:00,Guarani,Paysandu,,,,,Guarani,Â Brinco de Ouro,2,1,SP,PA
+535,45,07/12/2003,16:00,Santos,Gremio,,,,,-,Â Vila Belmiro,2,2,SP,RS
+536,45,07/12/2003,16:00,Flamengo,Ponte Preta,,,,,-,Â MaracanÃ£,1,1,RJ,SP
+537,45,07/12/2003,16:00,Criciuma,Bahia,,,,,Criciuma,Â Heriberto Hulse,3,2,SC,BA
+538,45,07/12/2003,16:00,Fortaleza,Coritiba,,,,,-,Â Presidente Vargas,2,2,CE,PR
+539,45,07/12/2003,18:00,Internacional,Sao Paulo,,,,,-,Â Beira Rio,1,1,RS,SP
+540,45,07/12/2003,18:00,Juventude,Sao Caetano,,,,,Juventude,Â Alfredo Jaconi,2,1,RS,SP
+541,46,13/12/2003,16:00,Parana,Vitoria,,,,,Parana,Â PinheirÃ£o,2,0,PR,BA
+542,46,13/12/2003,16:00,Coritiba,Criciuma,,,,,Coritiba,Â Couto Pereira,2,0,PR,SC
+543,46,13/12/2003,16:00,Atletico-MG,Goias,,,,,Atletico-MG,Â  IpatingÃ£o,3,2,MG,GO
+544,46,13/12/2003,16:00,Figueirense,Guarani,,,,,Figueirense,Â Orlando Scarpelli,2,0,SC,SP
+545,46,13/12/2003,16:00,Sao Caetano,Internacional,,,,,Sao Caetano,Â Anacleto Campanella,5,0,SP,RS
+546,46,14/12/2003,16:00,Gremio,Corinthians,,,,,Gremio,Â OlÃ­mpico,3,0,RS,SP
+547,46,14/12/2003,16:00,Ponte Preta,Fortaleza,,,,,Ponte Preta,Â MoisÃ©s Lucarelli,2,0,SP,CE
+548,46,14/12/2003,16:00,Bahia,Cruzeiro,,,,,Cruzeiro,Â Fonte Nova,0,7,BA,MG
+549,46,14/12/2003,16:00,Fluminense,Juventude,,,,,Fluminense,Â MaracanÃ£,1,0,RJ,RS
+550,46,14/12/2003,16:00,Paysandu,Athletico-PR,,,,,-,Â MangueirÃ£o,2,2,PA,PR
+551,46,14/12/2003,18:00,Vasco,Santos,,,,,-,Â SÃ£o JanuÃ¡rio,1,1,RJ,SP
+552,46,14/12/2003,18:00,Sao Paulo,Flamengo,,,,,Flamengo,Â Morumbi,1,3,SP,RJ
